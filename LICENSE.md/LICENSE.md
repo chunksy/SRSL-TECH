@@ -1,2 +1,2 @@
 license by Chunksy, a starting web developers 
-In support from GITHUB.com
+in support from GITHUB.com
